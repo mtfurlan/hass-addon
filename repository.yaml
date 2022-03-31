@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: mtfurlan's Home Assistant add-on repository
+url: 'https://github.com/mtfurlan/hass-addons'
+maintainer: Mark <hass-addons@fur.land>

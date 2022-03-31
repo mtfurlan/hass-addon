@@ -1,0 +1,12 @@
+name: "Redirect HTTPS to HTTP"
+description: "redirect HTTPS on port 443 to HTTP on port 80"
+version: "1.0.0"
+slug: "https2http"
+arch:
+  - amd64
+  - aarch64
+  - armhf
+  - armv7
+  - i386
+ports:
+  443/tcp: 443
